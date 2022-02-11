@@ -3,7 +3,7 @@ my:
   cake:
     composition:
       dough:
-      - œufs
+      - œufsol
       - du sucre
       - farine
       cream:
